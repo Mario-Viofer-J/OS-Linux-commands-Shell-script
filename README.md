@@ -538,8 +538,8 @@ else
 echo "$val1 is less than $val2"
 fi
 ```
-##OUTPUT
-![alt text](image-55.png)
+## OUTPUT
+![image](https://github.com/user-attachments/assets/f2a02368-19bf-400d-aed5-b650ba09029a)
 
 
 chmod 755 strcomp.sh
