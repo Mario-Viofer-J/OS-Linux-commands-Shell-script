@@ -1153,5 +1153,5 @@ chmod 777 palindrome.sh
 ## OUTPUT 
 ![alt text](image-89.png)
 
-# RESULT:
+## RESULT:
 The Commands are executed successfully.
